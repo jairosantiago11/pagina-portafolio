@@ -100,3 +100,20 @@ border-radius: 5px;
 button:hover {
 background-color: #00b5b2;
 }
+
+
+.mascotas {
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.mascotas img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
